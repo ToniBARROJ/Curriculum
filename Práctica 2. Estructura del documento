@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="lorum inpsum">
+    <meta name="keywords" content="Lorem impsun">
+    <title>Práctica 2</title>
+</head>
+<body>
+    <header>
+        <h1>Lorem impsun</h1>
+    </header>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab natus consectetur non saepe harum autem cum optio odio veniam, voluptate sequi eum animi, fuga obcaecati iusto fugiat cumque doloremque voluptatibus.</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti, animi modi minus impedit maxime, ratione quaerat temporibus quae officiis voluptatem hic dolore dolorem omnis autem! Similique corporis enim suscipit quo.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae voluptatum natus ad consectetur corrupti pariatur, nisi et expedita odit voluptate nobis reprehenderit atque dolore optio aut! Maiores enim quasi molestiae?</p>
+    <footer>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores, saepe dolore. Blanditiis nihil incidunt sunt veritatis eos, sit reprehenderit. Hic dignissimos ut aliquid dolores veniam dolorem adipisci harum nulla officiis.</p>
+        <p>Explicabo illo deserunt iste dicta officia, architecto placeat error hic magnam recusandae repudiandae amet nulla natus quis! Sapiente, est, voluptatum molestiae ipsum culpa dolorum beatae minus, ex facilis quae quisquam.</p>
+        <p>Ducimus debitis, fugiat, explicabo, animi nostrum voluptas non optio quam quisquam corporis aliquam rem voluptatibus qui ipsa totam? Iste assumenda consectetur architecto laudantium illo repellendus vel unde quo recusandae consequuntur.</p>
+    </footer>
+</body>
+</html>
