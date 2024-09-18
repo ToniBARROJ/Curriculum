@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 1. Presentación</title>
+</head>
+<body>
+    <h1>Antoni Barceló Rojo</h1>
+    <h2>Mis Aficiones</h2>
+    <p>Mi afición más grande es el deporte, soy entrenador personal y me estoy formando para poder asesorar nutricionalmente.</p>
+    <p>Los videojuegos, aunque no tenga mucho tiempo, son una de mis aficiones más grandes. Siempre que puedo le dedico un tiempo a jugar.</p>
+</body>
+</html>
