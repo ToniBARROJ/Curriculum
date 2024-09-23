@@ -10,9 +10,11 @@
 <body>
     <header>
         <h1>Lorem impsun</h1>
-        <nav>Inicio</nav>
-        <nav>Galería</nav>
-        <nav>Contacto</nav>
+        <menu>
+            <nav>Inicio</nav>
+            <nav>Galería</nav>
+            <nav>Contacto</nav>
+        </menu>
     </header>
     <section>
         <article>
