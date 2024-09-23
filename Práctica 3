@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="lorum inpsum">
+    <meta name="keywords" content="Lorem impsun">
+    <title>Práctica 3</title>
+</head>
+<body>
+    <header>
+        <h1>Lorem impsun</h1>
+        <nav>Inicio</nav>
+        <nav>Galería</nav>
+        <nav>Contacto</nav>
+    </header>
+    <section>
+        <article>
+            <p>Hola, esto es texto dentro de un artículo</p>
+            <p>Hola, esto es texto dentro de un artículo</p>
+            <p>Hola, esto es texto dentro de un artículo</p>
+         </article>
+        <article>
+            <p>Hola, esto es texto dentro de un artículo</p>
+            <p>Hola, esto es texto dentro de un artículo</p>
+            <p>Hola, esto es texto dentro de un artículo</p>
+        </article>
+    </section>
+    <aside>
+        <article></article>
+    </aside>
+
+    <footer>
+        <address>
+            <p>Toni Barceló Rojo</p>
+            <p>Mallorca</p>
+            <p>145555777888</p>
+            <p>gmailgmail.gmail@gmail.com</p>
+        </address>
+    </footer>
+</body>
+</html>
