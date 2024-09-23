@@ -31,14 +31,13 @@
     <aside>
         <article></article>
     </aside>
-
-    <footer>
-        <address>
-            <p>Toni Barceló Rojo</p>
-            <p>Mallorca</p>
-            <p>145555777888</p>
-            <p>gmailgmail.gmail@gmail.com</p>
-        </address>
-    </footer>
 </body>
+<footer>
+    <address>
+        <p>Toni Barceló Rojo</p>
+        <p>Mallorca</p>
+        <p>145555777888</p>
+        <p>gmailgmail.gmail@gmail.com</p>
+     </address>
+</footer>
 </html>
