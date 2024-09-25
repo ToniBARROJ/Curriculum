@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 5</title>
+</head>
+<body>
+    <header>
+        <h2><u>Hola práctica 5</u></h2>
+    </header>
+    <p><b>Este texto está en negrita</b></p>
+    <p><i>Este texto está en cursiva</i></p>
+    <p><strong><em>Este texto tiene énfasis semántica y es importante</em></strong></p>
+    <p>Este texto es normal <sup>pero este texto es un superíndice</sup></p>
+    <p>Este texto es normal <sub>pero este texto es un subíndice</sub></p>
+    <footer>
+        <p><sub>Copyright 2022</sub></p>
+    </footer>
+</body>
+</html>
