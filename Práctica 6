@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 6 – Agencia de Viajes</title>
+</head>
+<body>
+    <header>
+        <h1>Agencia de Viajes</h1>
+        <img src="M1_Practica6.jpg" alt="imagen">
+        <nav></nav>
+            <ul>
+                <li><a href="#seccion1">Sección 1</a></li>
+                <li><a href="#seccion2">Sección 2</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="seccion1">
+            <h2><u>MATERIAL IMPRESCINDIBLE</u></h2>
+            <p>En esta sección pondré 3 enlaces a 3 productos imprescindibles para un Viaje</p>
+            <ol>
+                <li><a href="https://www.amazon.es/s?k=maletas+de+viaje&adgrpid=57795558898&hvadid=275496793569&hvdev=c&hvlocphy=9211939&hvnetw=g&hvqmt=e&hvrand=12700052232059499918&hvtargid=kwd-297516227513&hydadcr=14555_1815276&tag=hydes-21&ref=pd_sl_57mmsvupvb_e" target="_blank">Maletas de viaje</a></li>
+                <li><a href="https://www.amazon.es/s?k=cojines+para+avion&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3B84DDOUOPLKY&sprefix=cojines+para+avion%2Caps%2C119&ref=nb_sb_noss_1" target="_blank">Cojines para el avión</a></li>
+                <li><a href="https://www.amazon.es/s?k=antifazes&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3DTTOHBY9DRKB&sprefix=antifazes%2Caps%2C117&ref=nb_sb_noss_2" target="_blank">Antifazes</a></li>
+            </ol>
+        </section>
+        <section id="seccion2">
+            <h2><u>IDEAS DE VIAJE</u></h2>
+            <p>En esta sección os vay a dar ideas para viajes</p>
+            <ol>
+                <li><a href="https://www.worldpackers.com/es/articles/sudeste-asiatico-guia" target="_blank">Viaje a Sudeste asiático</a></li>
+                <li><a href="https://www.traveler.es/galerias/viajar-tren-europa-mejores-rutas-once-itinerarios-imprescindibles" target="_blank">Viaje por en tren por Europa</a></li>
+                <li><a href="https://altoviaje.blog/itinerario-para-viajar-por-sudamerica/" target="_blank">Viaje por Sudamérica</a></li>
+            </ol>
+        </section>
+    </main>
+</body>
+</html>
