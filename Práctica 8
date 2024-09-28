@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 8</title>
+</head>
+<body>
+    <table style="border: 2px rgb(252, 0, 0) solid;">
+        <tr style="text-align: center;">
+            <td colspan="3">Continentes y sus países</td>
+        </tr>
+        <tr  style="text-align: center;">
+            <th style="font-size: 26px;"><b>Europa</b></th>
+            <th style="font-size: 26px;"><b>Asia</b></th>
+            <th style="font-size: 26px;"><b>América</b></th>
+        </tr>
+        <tr>
+            <tbody style="text-align: center;">
+                <td>España</td>
+                <td>China</td>
+                <td>Estados Unidos</td>
+            </tbody>
+        </tr>
+        <tr>
+            <tbody style="text-align: center;">
+                <td>Suiza</td>
+                <td>Tailandia</td>
+                <td>Argentina</td>
+            </tbody>
+        </tr>
+        <tr>
+            <tbody style="text-align: center;">
+                <td>Noruega</td>
+                <td>India</td>
+                <td>México</td>
+            </tbody>
+        </tr>
+       
+    </table>
+</body>
+</html>
