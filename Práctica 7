@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 7</title>
+</head>
+<body>
+    <table style="border: 2px black solid;">
+        <tr>
+            <thead style="text-align: center;">
+                <td><b>Europa</b></td>
+                <td><b>Asia</b></td>
+                <td><b>América</b></td>
+            </thead>
+        </tr>
+        <tr>
+            <tbody>
+                <td>España</td>
+                <td>China</td>
+                <td>Estados Unidos</td>
+            </tbody>
+        </tr>
+        <tr>
+            <tbody>
+                <td>Suiza</td>
+                <td>Tailandia</td>
+                <td>Argentina</td>
+            </tbody>
+        </tr>
+        <tr>
+            <tbody>
+                <td>Noruega</td>
+                <td>India</td>
+                <td>México</td>
+            </tbody>
+        </tr>
+       
+    </table>
+</body>
+</html>
