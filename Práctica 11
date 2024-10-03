@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 11</title>
+</head>
+<body>
+    <form action="https://httpbin.org/post" method="post" enctype="application/x-www-form-urlencoded">
+        <fieldset>
+            <legend>Registro de usuarios</legend>
+
+            <label>Nombre: <input type="text" name="name" id="nombre" required></label><br>
+
+            <!-- He envuelto los inputs en radio dentro de un fieldset para poder visualizar más que se deben elegir una de las dos opciones. Otra posible manera que había planteado era utilizar un desplegable. -->
+            <fieldset>
+                <legend>Género</legend>
+                <label><input type="radio" name="genero">Hombre</label><br>
+                <label><input type="radio" name="genero">Mujer</label>
+            </fieldset>
+
+            <label>Fecha de Nacimiento: <input type="date" name="birthday"></label><br>
+
+            <label>Email: <input type="email" name="email" id="correo" required></label><br>
+
+            <label>Contraseña: <input type="password" name="password" required></label><br>
+
+            <label>Número de asignaturas matriculadas: <input type="number" name="number" min="1" max="15"></label><br>
+
+            <label>Curso matriculado: 
+                <select name="curso" id="curso_matriculado">
+                    <option value="0" selected disabled>Selecciona una opción</option>
+                    <option value="1">Curso HTML5</option>
+                    <option value="2">Curso CSS3</option>
+                    <option value="3">Curso JavaScript</option>
+                    <option value="4">Curso Python</option>
+                </select>
+            </label><br><br>
+            <label><input type="checkbox" name="accept">Acepto las condiciones y el registro</label><br>
+            <label><input type="checkbox" name="decline">No acepto las condiciones y el registro</label><br><br>
+            <input type="submit" value="Enviar formulario">
+        </fieldset>
+    </form>
+</body>
+</html>
